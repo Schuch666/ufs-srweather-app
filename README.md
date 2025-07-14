@@ -1,3 +1,10 @@
+Forked from this version [git-hub](https://github.com/JianpingHuang-NOAA/ufs-srweather-app/tree/fire_voc_poc_fixed) from [
+JianpingHuang](https://github.com/JianpingHuang-NOAA) github.
+
+More info of UFS [GFSv16](https://dtcenter.ucar.edu/GMTB/UFS_SRW_App_v2.2.0/sci_doc/_g_f_s_v16_page.html)
+
+More info of CMAC [options](https://github.com/USEPA/CMAQ/blob/main/DOCS/Users_Guide/Appendix/CMAQ_UG_appendixA_model_options.md)
+
 # UFS Short-Range Weather Application
 
 The Unified Forecast System (UFS) is a community-based, coupled, comprehensive Earth modeling system. NOAA's operational model suite for numerical weather prediction (NWP) is quickly transitioning to the UFS from a number of legacy modeling systems. The UFS enables research, development, and contribution opportunities within the broader Weather Enterprise (including government, industry, and academia). For more information about the UFS, visit the UFS Portal at https://ufs.epic.noaa.gov/.
